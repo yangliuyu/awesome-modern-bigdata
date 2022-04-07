@@ -6,6 +6,7 @@ A list of awesome modern big data libraries, frameworks and platforms.
   - [Orchestration](#orchestration)
   - [Ingestion](#ingestion)
   - [File Storage](#file-storage)
+  - [OLAP Query Engine](#olap-query-engine)
   - [Messaging](#messaging)
   - [Database](#database)
   - [Data Lake](#data-lake)
@@ -33,6 +34,9 @@ A list of awesome modern big data libraries, frameworks and platforms.
 * [JuiceFS](https://juicefs.com) JuiceFS is a high-performance shared file system designed for cloud-native use and released under the Apache License 2.0. It provides full POSIX compatibility, allowing almost all kinds of object storage to be used locally as massive local disks and to be mounted and read on different cross-platform and cross-region hosts at the same time.
 * [Fluid](https://github.com/fluid-cloudnative/fluid) Fluid is an open source Kubernetes-native Distributed Dataset Orchestrator and Accelerator for data-intensive applications, such as big data and AI applications.
 * [ALLUXIO](https://www.alluxio.io) Alluxio, data orchestration for analytics and machine learning in the cloud.
+
+## OLAP Query Engine
+* [Presto](https://github.com/prestodb/presto) Presto is a distributed SQL query engine for big data.
 
 ## Messaging
 * [Kafka](https://kafka.apache.org) Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
